@@ -1,8 +1,9 @@
 [
     {
-        "ïd": "00001",
+        "id": "00001",
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/1006/723/png-clipart-macbook-air-macbook-pro-laptop-macbook-television-electronics.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/os/macos/standard/Apple_macOS-Monterey_Live-Text_10252021_big.jpg.large_2x.jpg",
+
         "price": 1250,
         "chip": "Apple M1 chip with 8-core CPU and 7-core GPU",
         "ram": "8GB",
@@ -13,9 +14,9 @@
         "release": "05-09-2021"
     },
     {
-        "ïd": "00002",
+        "id": "00002",
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/375/1007/png-clipart-mac-book-pro-macbook-air-laptop-macbook-pro-13-inch-macbook-gadget-electronics.png",
+        "thumbnail": "  https://www.apple.com/newsroom/images/product/apps/standard/Apple_Final-Cut-Pro-Logic-Pro_Logic-Pro_10182021_big.jpg.large_2x.jpg",
         "price": 1299,
         "chip": "Apple M1 chip with 8-core CPU and 8-core GPU",
         "ram": "8GB",
@@ -26,9 +27,9 @@
         "release": "19-12-2021"
     },
     {
-        "ïd": "00003",
+        "id": "00003",
         "name": "Apple MacBook Pro 14-Inch M1 Pro Chip.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/473/297/png-clipart-macbook-pro-13-inch-macbook-air-laptop-macbook-electronics-gadget.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbookair-gold-retina-display-screen_11102020_big.jpg.large_2x.jpg",
         "price": 1950,
         "chip": "Apple M1 Pro Chip (8-core CPU, 14-core GPU, 200GB/s)",
         "ram": "16GB",
@@ -39,12 +40,12 @@
         "release": "25-03-2021"
     },
     {
-        "ïd": "00004",
+        "id": "00004",
         "name": "Apple MacBook Pro 2019 16-inch Retina Display with Touch Bar Core i9-2.3GHz.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/630/700/png-clipart-macbook-pro-laptop-macbook-air-apple-macbook-pro-netbook-computer.png",
+        "thumbnail": "https://imageio.forbes.com/blogs-images/davidphelan/files/2019/05/apple_macbookpro-8-core_video-editing_05212019-1200x723.jpg?fit=bounds&format=jpg&width=960",
         "price": 2250,
         "chip": "2.3GHz 8-core 9th-generation Intel Core i9 processor",
-        "ram": "16GB DDR4",
+        "ram": "16GB",
         "ssd": "1TB",
         "color": "Gray",
         "warranty": "2",
@@ -52,9 +53,9 @@
         "release": "09-11-2019"
     },
     {
-        "ïd": "00005",
+        "id": "00005",
         "name": "Apple MacBook Pro 14-Inch M1 Pro Chip.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/374/447/png-clipart-mac-book-pro-macbook-air-laptop-macbook-pro-13-inch-macbook-electronics-netbook.png",
+        "thumbnail": "https://i.insider.com/5ce4411e021b4c56993b0542?width=1300&format=jpeg&auto=webp",
         "price": 2500,
         "chip": "Apple M1 Pro Chip (10-core CPU, 16-core GPU, 200GB/s)",
         "ram": "16GB",
@@ -65,9 +66,9 @@
         "release": "03-07-2021"
     },
     {
-        "ïd": "00006",
+        "id": "00006",
         "name": "Apple MacBook Pro 16-Inch M1 Pro Chip, 16GB RAM, 1TB SSD.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/5/744/png-clipart-macbook-pro-macbook-air-laptop-macbook-electronics-netbook.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/os/macos/standard/Apple_macos-monterey_messages-photos_06072021_big_carousel.jpg.large_2x.jpg",
         "price": 2930,
         "chip": "Apple M1 Pro Chip (10-core CPU, 16-core GPU, 200GB/s)",
         "ram": "16GB",
@@ -78,9 +79,9 @@
         "release": "05-11-2021"
     },
     {
-        "ïd": "00007",
+        "id": "00007",
         "name": "Apple MacBook Pro 16-Inch M1 Max Chip, 32GB RAM, 1TB SSD.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/898/224/png-clipart-apple-laptops-apple-device-product-kind-apple.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-air-performance_03182020_big.jpg.large_2x.jpg",
         "price": 3539,
         "chip": "Apple M1 Max chip (10-core CPU, 32-core GPU, 400GB/s)",
         "ram": "32GB",
@@ -91,9 +92,9 @@
         "release": "03-12-2021"
     },
     {
-        "ïd": "00008",
+        "id": "00008",
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip.",
-        "thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmpng.subpng.com%2F20181109%2Fuvl%2Fkisspng-apple-macbook-pro-retina-13-mid-2-14-apple-ma-my-mac-is-too-fast-5be6493ba393a4.60855206154181868367.jpg&imgrefurl=https%3A%2F%2Fwww.subpng.com%2Fpng-v3uub4%2F&tbnid=MjMNdciox-4xAM&vet=10CAcQxiAoBWoXChMIgNKX7ezc9wIVAAAAAB0AAAAAEBU..i&docid=NhjnUY2ab94yDM&w=900&h=500&itg=1&q=apple%20laptop%20png&hl=en&ved=0CAcQxiAoBWoXChMIgNKX7ezc9wIVAAAAAB0AAAAAEBU",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbookair-gold-facetime-screen_11102020_big_carousel.jpg.large_2x.jpg",
         "price": 1300,
         "chip": "Apple M1 chip with 8-core CPU and 8-core GPU",
         "ram": "8GB",
@@ -104,9 +105,9 @@
         "release": "05-09-2018"
     },
     {
-        "ïd": "00009",
+        "id": "00009",
         "name": "Apple MacBook Pro 14-Inch M1 Pro Chip, 16GB RAM, 1TB SSD .",
-        "thumbnail": "https://www.pngfind.com/pngs/m/11-113233_macbook-pro-png-image-apple-macbook-pro-mjlq2b.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-air-wallpaper-screen_03182020_big.jpg.large_2x.jpg",
         "price": 2250,
         "chip": "Apple M1 Pro Chip (10-core CPU, 16-core GPU, 200GB/s)",
         "ram": "16GB",
@@ -117,9 +118,9 @@
         "release": "05-09-2020"
     },
     {
-        "ïd": "000010",
+        "id": "000010",
         "name": "Apple MacBook Pro 14-Inch M1 Max Chip, 32GB RAM, 1TB SSD.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/104/1000/png-clipart-macbook-pro-laptop-intel-apple-macbook-electronics-netbook.png",
+        "thumbnail": "https://imageio.forbes.com/blogs-images/davidphelan/files/2019/05/apple_macbookpro-8-core_3d-graphics_05212019-1200x723.jpg?fit=bounds&format=jpg&width=960",
         "price": 3150,
         "chip": "M1 Max chip, 10-Core CPU and 32-Core GPU",
         "ram": "32GB",
@@ -130,9 +131,9 @@
         "release": "23-06-2020"
     },
     {
-        "ïd": "000011",
+        "id": "000011",
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/95/388/png-clipart-mac-book-pro-macbook-air-laptop-intel-macbook-gadget-electronics.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_16-inch-MacBook-Pro_111319_big.jpg.large_2x.jpg",
         "price": 3250,
         "chip": "Apple M1 chip with 8-core CPU and 7-core GPU",
         "ram": "8GB",
@@ -143,12 +144,12 @@
         "release": "14-012-2021"
     },
     {
-        "ïd": "000012",
+        "id": "000012",
         "name": "Apple MacBook Pro 2019 16-inch Retina Display with Touch Bar Core i9-2.3GHz.",
-        "thumbnail": "https://www.pngfind.com/pngs/m/321-3216553_image-of-macos-mojave-on-macbook-pro-which.png",
+        "thumbnail": "  https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbookpro-davinci-resolve-screen_11102020_big_carousel.jpg.large_2x.jpg",
         "price": 2250,
         "chip": "2.3GHz 8-core 9th-generation Intel Core i9 processor",
-        "ram": "16GB DDR4",
+        "ram": "16GB",
         "ssd": "1TB",
         "color": "Gray",
         "warranty": "2",
@@ -156,9 +157,9 @@
         "release": "09-11-2019"
     },
     {
-        "ïd": "000013",
+        "id": "000013",
         "name": "Apple MacBook Pro 16-Inch M1 Max Chip, 32GB RAM, 1TB SSD.",
-        "thumbnail": "https://e7.pngegg.com/pngimages/646/645/png-clipart-mac-book-pro-macbook-air-laptop-macbook-television-electronics.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/os/macos/standard/Apple_macos-monterey_facetime-messages-safari_06072021_big.jpg.large_2x.jpg",
         "price": 3539,
         "chip": "Apple M1 Max chip (10-core CPU, 32-core GPU, 400GB/s)",
         "ram": "32GB",
@@ -169,9 +170,9 @@
         "release": "03-12-2021"
     },
     {
-        "ïd": "000014",
+        "id": "000014",
         "name": "Apple MacBook Pro 14-Inch M1 Pro Chip.",
-        "thumbnail": "https://www.pngfind.com/pngs/m/321-3216553_image-of-macos-mojave-on-macbook-pro-which.png",
+        "thumbnail": "https://i.insider.com/5ce4411e021b4c56993b0542?width=1300&format=jpeg&auto=webp",
         "price": 1950,
         "chip": "Apple M1 Pro Chip (8-core CPU, 14-core GPU, 200GB/s)",
         "ram": "16GB",
@@ -182,9 +183,9 @@
         "release": "25-03-2021"
     },
     {
-        "ïd": "000015",
+        "id": "000015",
         "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip.",
-        "thumbnail": "https://www.pngfind.com/pngs/m/11-113214_macbook-pro-png-macbook-2014-transparent-png.png",
+        "thumbnail": "https://www.apple.com/newsroom/images/product/os/macos/standard/Apple_macOS-Monterey_Safari-Tab-Groups_10252021_big.jpg.large_2x.jpg",
         "price": 1250,
         "chip": "Apple M1 chip with 8-core CPU and 7-core GPU",
         "ram": "8GB",
