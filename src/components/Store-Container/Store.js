@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../../cart/Cart';
 import Products from '../Products-item/Products';
-import "./Store.css"
+import "./Store.css";
 
 const Store = () => {
     const [products, setproducts] = useState([]);
@@ -56,8 +56,10 @@ const Store = () => {
                         ></Cart>)
                         }
                         
-                        <button onClick={chooseAgainHandle}>Choose again</button>
-                        <button onClick={random}>Choose one</button>
+                        <div className='choose-btn'>
+                        <button onClick={chooseAgainHandle} className = "choose-again-btn">Choose again</button>
+                        <button onClick={random} className = "choose-one-btn">Choose one</button>
+                      </div>
                    </div>
 
                     

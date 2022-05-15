@@ -41,7 +41,7 @@
     },
     {
         "id": "00004",
-        "name": "Apple MacBook Pro 2019 16-inch Retina Display with Touch Bar Core i9-2.3GHz.",
+        "name": "Apple MacBook Pro 2019 16-inch Retina Display with Touch Bar.",
         "thumbnail": "https://imageio.forbes.com/blogs-images/davidphelan/files/2019/05/apple_macbookpro-8-core_video-editing_05212019-1200x723.jpg?fit=bounds&format=jpg&width=960",
         "price": 2250,
         "chip": "2.3GHz 8-core 9th-generation Intel Core i9 processor",
@@ -106,7 +106,7 @@
     },
     {
         "id": "00009",
-        "name": "Apple MacBook Pro 14-Inch M1 Pro Chip, 16GB RAM, 1TB SSD .",
+        "name": "Apple MacBook Pro 14-Inch M1 Pro Chip, 16GB RAM, 1TB SSD.",
         "thumbnail": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-air-wallpaper-screen_03182020_big.jpg.large_2x.jpg",
         "price": 2250,
         "chip": "Apple M1 Pro Chip (10-core CPU, 16-core GPU, 200GB/s)",
@@ -145,7 +145,7 @@
     },
     {
         "id": "000012",
-        "name": "Apple MacBook Pro 2019 16-inch Retina Display with Touch Bar Core i9-2.3GHz.",
+        "name": "Apple MacBook Pro 2019 16-inch Retina Display with Touch Bar.",
         "thumbnail": "  https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbookpro-davinci-resolve-screen_11102020_big_carousel.jpg.large_2x.jpg",
         "price": 2250,
         "chip": "2.3GHz 8-core 9th-generation Intel Core i9 processor",

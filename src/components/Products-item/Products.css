@@ -1,8 +1,8 @@
 .product-details {
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
     position: relative;
-    height: 505px;
-    margin-left: 20px;
+    height: 480px;
+    margin: 5px 20px;
 }
 
 .product-details img{

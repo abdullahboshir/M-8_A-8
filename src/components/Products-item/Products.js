@@ -2,9 +2,8 @@ import React from 'react';
 import "./Products.css"
 
 const Products = (props) => {
-    // console.log(props)
     const { product, handleAddToCart } = props;
-    const { name, id, thumbnail, chip, ram, ssd, price } = product;
+    const { name, thumbnail, chip, ram, ssd, price } = product;
     return (
         <div className='product-details'>
             <img src={thumbnail} alt="" />

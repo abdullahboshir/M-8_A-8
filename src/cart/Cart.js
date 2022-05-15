@@ -1,3 +1,5 @@
+import { faTrashCan } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Cart.css"
 
 const Cart = (props) => {
@@ -16,7 +18,7 @@ const Cart = (props) => {
             <p>{name}</p> 
             </div>
             <div className="btn">
-                <button onClick={clearHandler}>delete</button>
+                <button className="delete-btn" onClick={clearHandler}><FontAwesomeIcon icon={faTrashCan}></FontAwesomeIcon></button>
             </div>
        </div>
     );

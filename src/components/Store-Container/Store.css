@@ -1,7 +1,9 @@
+.main-container{
+    background-color: rgba(250, 250, 250, 1);
+}
 .store-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
-    background-color: rgba(250, 250, 250, 1);
 }
 
 .products-selected-item{
@@ -14,17 +16,43 @@
 .products-item{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
 }
 
 .clear-item{
+    margin-left: 8px;
+    background-color: rgba(250, 250, 250, 1);
     position: sticky;
     top: 0;
 }
 
+.choose-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.choose-again-btn, .choose-one-btn{
+    border: 0;
+    border-radius: 3px;
+    background-color: rgb(209, 214, 216);
+    padding: 10px 15px;
+    margin: 10px;
+    font-size: 14px;
+    transition: .35s ease-in-out;
+}
+
+.choose-one-btn:hover{
+    background-color: rgb(5, 110, 152);
+    color: #ffff;
+}
+
+.choose-again-btn:hover{
+    background-color: rgb(5, 110, 152);
+    color: #ffff;
+}
+
 h1{
     color: rgb(5, 110, 152);
-    margin: 40px 0;
+    margin: 35px 0;
     text-align: center;
 }
 
