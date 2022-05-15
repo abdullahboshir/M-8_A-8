@@ -1,12 +1,19 @@
-import React from 'react';
 import "./Cart.css"
 
 const Cart = (props) => {
-    console.log(props)
+    const { cartProduct, setCart, cart } = props;
+    const { name, thumbnail, id } = cartProduct;
+
+    let clearHandler = () => {
+        setCart(cart.filter(carts => carts.id !== id)) 
+    }
+
+
     return (
         <div className='cart-items'>
-            <p>{props.product.name}</p> 
-            <img src = {props.product.thumbnail} alt="" />
+            <img src={thumbnail} alt="" />
+            <p>{name}</p> 
+            <button onClick={clearHandler}>delete</button>
         </div>
     );
 };
