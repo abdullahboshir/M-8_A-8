@@ -1,8 +1,21 @@
 .cart-items{
-    width: 150px;
-    margin-left: 30px;
+    width: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-items p {
+    margin-left: 5px;
+    
+}
+
+.btn{
+   display: flex;
+   justify-content: center;
 }
 
 .cart-items img{
-width: 150px;
+width: 60px;
+height: 40px;
 }

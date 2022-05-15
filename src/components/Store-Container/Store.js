@@ -23,7 +23,7 @@ const Store = () => {
     }
 
     const random = () => {
-        const random = cart
+        const random = cart;
         if(random.length > 0){
             const SelectRandomOneValue = Math.floor(Math.random() * random.length);
             setCart([random[SelectRandomOneValue]]);
@@ -45,8 +45,8 @@ const Store = () => {
                 }
                 </div>
                 <div className="products-selected-item">
-                <h3>Selected Products:</h3> 
                     <div className='clear-item'>
+                    <h3>Selected Products:</h3> 
                     {
                             cart.map(cartProduct => <Cart
                                 cartProduct={cartProduct}

@@ -10,11 +10,15 @@ const Cart = (props) => {
 
 
     return (
-        <div className='cart-items'>
+        <div className="cart-items-container">
+             <div className='cart-items'>
             <img src={thumbnail} alt="" />
             <p>{name}</p> 
-            <button onClick={clearHandler}>delete</button>
-        </div>
+            </div>
+            <div className="btn">
+                <button onClick={clearHandler}>delete</button>
+            </div>
+       </div>
     );
 };
 
