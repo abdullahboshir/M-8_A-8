@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Cart from '../../cart/Cart';
+import Cart from '../cart/Cart';
 import Products from '../Products-item/Products';
 import "./Store.css";
 
@@ -46,6 +46,7 @@ const Store = () => {
                 </div>
                 <div className="products-selected-item">
                     <div className='clear-item'>
+                    <div className='clear-items'>
                     <h3>Selected Products:</h3> 
                     {
                             cart.map(cartProduct => <Cart
@@ -61,6 +62,7 @@ const Store = () => {
                         <button onClick={random} className = "choose-one-btn">Choose one</button>
                       </div>
                    </div>
+                    </div>
 
                     
                 </div>
