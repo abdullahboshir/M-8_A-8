@@ -1,0 +1,12 @@
+.article{
+    text-align: justify;
+    padding: 50px;
+}
+
+.article h2{
+    margin-bottom: 5px;
+}
+
+.article p{
+    margin-bottom: 0px;
+}
