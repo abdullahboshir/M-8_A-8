@@ -12,10 +12,19 @@ const Store = () => {
             .then(data => setproducts(data))
     }, []);
 
-    const handleAddToCart = (product) => {
-        const newCart = [...cart, product];
-        setCart(newCart);
-    };
+
+    const handleAddToCart  = (product) => {
+        if (cart.find(prod => prod.id === product.id)) {
+                alert("This item has already been added")
+        } else {
+          if (cart.length >= 4) {
+            alert("you can added maximum 4 items .....")
+    
+          } else {
+            setCart([...cart, product]);
+          }
+        }
+      };
 
 
     const chooseAgainHandle = () => {

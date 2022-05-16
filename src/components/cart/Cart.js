@@ -7,7 +7,7 @@ const Cart = (props) => {
     const { name, thumbnail, id } = cartProduct;
 
     let clearHandler = () => {
-        setCart(cart.filter(carts => carts.id !== id)) 
+        setCart(cart.filter(carts => carts.id !== id))
     }
 
 
